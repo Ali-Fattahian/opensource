@@ -19,10 +19,11 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: |
-                          "<h1> ## Hi there 👋
-                          <h1> Welcome to SpaceYaTech
+                         <h1> Hi there 👋
+                          Welcome to SpaceYaTech</h1>
+
                           🙋‍♀️🙋‍♀️🙋‍♀️🙋‍
-                          We are the fastest growing Africa Open-Source Community Looking To Change The Way Young Africans Get Started In Technology. 
+                          <h2>We are the fastest growing Africa Open-Source Community Looking To Change The Way Young Africans Get Started In Technology.  </h2>
 
                           **JOIN US** | **THRIVE** | **GROW**  
 
@@ -31,8 +32,9 @@ jobs:
                           [![SpaceYaTech Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SpaceyaTech)
                           [![Website](https://img.shields.io/badge/website-07C160?style=for-the-badge&logoColor=white)](https://www.spaceyatech.com/#)
                           [![Github](https://img.shields.io/github/followers/SpaceyaTech.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/SpaceyaTech/) 
-                          It's great having you contribute to this project</h1> Welcome to the community :nerd_face:
-                          🍿 Fun facts - we eat bugs 🐛🐛🐛🐛 for breakfast 🥣
-                          "
+                          <h2>It's great having you contribute to this project</h2> Welcome to the community :nerd_face:</h2>
+
+                          🍿 **Fun facts** - we eat bugs 🐛🐛🐛🐛 for breakfast 🥣
+                          
           pr-message: "<h1>It's great having you contribute to this project</h1> Welcome to the community :nerd_face:"
           footer: 'If you would like to continue contributing to open source and would like to do it with an awesome inclusive community'
