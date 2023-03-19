@@ -19,7 +19,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: |
-                         <h1> Hi there 👋
+                         <h1> Hello contributor,👋👋 thank you for opening this Issue 🎉
                           Welcome to SpaceYaTech</h1>
 
                           🙋‍♀️🙋‍♀️🙋‍♀️🙋‍
@@ -37,7 +37,7 @@ jobs:
                           🍿 **Fun facts** - we eat bugs 🐛🐛🐛🐛 for breakfast 🥣
                           
           pr-message: |
-                       <h1> Hi there 👋
+                       <h1> Hello contributor,👋👋 thank you for opening a Pull Request
                           Welcome to SpaceYaTech</h1>
                           
                           🙋‍♀️🙋‍♀️
