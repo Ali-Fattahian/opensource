@@ -19,8 +19,8 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: |
-                         <h1> Hi there 👋
-                          Welcome to SpaceYaTech</h1>
+                         <h1>Hello contributor, thank you for opening an Issue 🎉.</h1>"
+                         # Welcome to SpaceYaTech
 
                           🙋‍♀️🙋‍♀️🙋‍♀️🙋‍
                           <h2>We are the fastest growing Africa Open-Source Community Looking To Change The Way Young Africans Get Started In Technology.  </h2>
@@ -37,7 +37,7 @@ jobs:
                           🍿 **Fun facts** - we eat bugs 🐛🐛🐛🐛 for breakfast 🥣
                           
           pr-message: |
-                       <h1> Hi there 👋
+                       <h1>Hello contributor, thank you for opening a Pull Request 👋🎉 
                           Welcome to SpaceYaTech</h1>
                           
                           🙋‍♀️🙋‍♀️
@@ -53,4 +53,4 @@ jobs:
                           🍿 **Fun facts** - we eat bugs 🐛🐛🐛🐛 for breakfast 🥣
                           <h2> This Pull request has been queued for `review`</h2>
                           Sit tight the maintainers are on your case.
-          footer: 'If you would like to continue contributing to open source and would like to do it with an awesome inclusive community'
+          footer: 'Soon the maintainers/owner will review it and provide you with feedback suggestions.<br>If you think it's something urgent, feel free to reach out'
